@@ -1,4 +1,4 @@
-**Prompt**: The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's personal data, including information about their plans and contracts.
+**Prompt**: The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their client's personal data, including information about their plans and contracts.
 
 **This project's focus was on building a machine learning model that can forecast client churn with a AUC-ROC score above 0.85.**
 
