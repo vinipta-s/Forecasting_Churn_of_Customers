@@ -6,9 +6,9 @@
 1. Libraries
 2. Load Data
 3. Clean Data
-   1. Merge data sets
-   2. Replace Nulls
-   3. Feature engineering: 'tenure', 'year_start', 'churn'
+   * Merge data sets
+   * Replace Nulls
+   * Feature engineering: 'tenure', 'year_start', 'churn'
 4. Data Visualization: How the features impact churn.
 5. Final Data preparation
   1. Feature engineering: base_charges
