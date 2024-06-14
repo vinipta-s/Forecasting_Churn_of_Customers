@@ -16,8 +16,13 @@
   3. data spliting
   4. Normalize charges by scaling
   5. upsample data
-7. Models: LogisticRegression, RandomForestClassifier, CatBoostClassifier, KNeighborsClassifier and VotingClassifier
-8. CatBoostClassifier had the highest evaluation scores with a 0.9 AUC-ROC and 0.8+ accuracy on the testset. 
+7. Models:
+   * LogisticRegression
+   * RandomForestClassifier
+   * CatBoostClassifier
+   * KNeighborsClassifier
+   * VotingClassifier
+9. CatBoostClassifier had the highest evaluation scores with a 0.9 AUC-ROC and 0.8+ accuracy on the testset. 
 
 
 **Datasets**:
