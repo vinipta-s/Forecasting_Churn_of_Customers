@@ -18,7 +18,7 @@
   5. upsample data
 7. Models:
    * LogisticRegression
-   * RandomForestClassifier
+   * RandomForestClassifier 
    * CatBoostClassifier
    * KNeighborsClassifier
    * VotingClassifier
